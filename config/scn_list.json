@@ -2,7 +2,9 @@
   "field": [
     {"name": "id", "type": "int"},
     {"name": "name", "type": "string"},
-	{"name": "temp", "type": "int"}
+	{"name": "temp", "type": "int"},
+	{"name": "min", "type": "float[]"},
+	{"name": "max", "type": "float[]"}
   ],
   "files": [
     "scn/scn_list"
