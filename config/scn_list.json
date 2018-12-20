@@ -4,7 +4,8 @@
     {"name": "name", "type": "string"},
 	{"name": "temp", "type": "int"},
 	{"name": "min", "type": "float[]"},
-	{"name": "max", "type": "float[]"}
+	{"name": "max", "type": "float[]"},
+	{"name": "viewDist", "type": "float"}
   ],
   "files": [
     "scn/scn_list"
