@@ -4,7 +4,7 @@
     {"name": "name", "type": "string"},
 	{"name": "triggerType", "type": "int"},
 	{"name": "triggerParam1", "type": "int"},
-	{"name": "triggerParan2", "type": "int"},
+	{"name": "triggerParam2", "type": "int"},
 	{"name": "eventType", "type": "int"},
 	{"name": "evnetParam1", "type": "int"},
 	{"name": "evnetParam2", "type": "int"},
