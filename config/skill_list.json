@@ -9,6 +9,8 @@
 	{"name": "targetType", "type": "int"}
   ],
   "files": [
-    "skill/skill_list_cmn"
+    "skill/skill_list_cmn",
+	"skill/skill_list_player",
+	"skill/skill_list_monster"
   ]
 }

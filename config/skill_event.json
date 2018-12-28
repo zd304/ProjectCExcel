@@ -18,6 +18,8 @@
 	{"name": "trait", "type": "int"}
   ],
   "files": [
-    "skill/skill_event_cmn"
+    "skill/skill_event_cmn",
+	"skill/skill_event_player",
+	"skill/skill_event_monster"
   ]
 }

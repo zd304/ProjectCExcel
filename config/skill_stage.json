@@ -8,6 +8,8 @@
 	{"name": "nextStageID", "type": "int"}
   ],
   "files": [
-    "skill/skill_stage_cmn"
+    "skill/skill_stage_cmn",
+	"skill/skill_stage_player",
+	"skill/skill_stage_monster"
   ]
 }

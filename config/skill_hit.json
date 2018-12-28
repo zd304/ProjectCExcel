@@ -8,6 +8,8 @@
 	{"name": "hitData3", "type": "int"}
   ],
   "files": [
-    "skill/skill_hit_cmn"
+    "skill/skill_hit_cmn",
+	"skill/skill_hit_player",
+	"skill/skill_hit_monster"
   ]
 }
