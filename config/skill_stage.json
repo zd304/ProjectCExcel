@@ -4,7 +4,7 @@
     {"name": "name", "type": "string"},
 	{"name": "events", "type": "int[]"},
 	{"name": "trait", "type": "int"},
-	{"name": "time", "type": "float"},
+	{"name": "time", "type": "int"},
 	{"name": "nextStageID", "type": "int"}
   ],
   "files": [
