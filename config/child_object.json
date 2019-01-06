@@ -1,0 +1,22 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+	{"name": "path", "type": "string"},
+	{"name": "duration", "type": "int"},
+	{"name": "size", "type": "float"},
+	{"name": "initPos", "type": "int"},
+	{"name": "initHinge", "type": "string"},
+	{"name": "yOffset", "type": "float"},
+	{"name": "initDir", "type": "int"},
+	{"name": "moveType", "type": "int"},
+	{"name": "speed", "type": "float"},
+	{"name": "events", "type": "int[]"},
+	{"name": "trait", "type": "int"}
+  ],
+  "files": [
+    "skill/child_object_cmn",
+	"skill/child_object_player",
+	"skill/child_object_monster"
+  ]
+}
