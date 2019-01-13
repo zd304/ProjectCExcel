@@ -6,7 +6,10 @@
 	{"name": "hits", "type": "int[]"},
 	{"name": "trait", "type": "int"},
 	{"name": "maxDistance", "type": "float"},
-	{"name": "targetType", "type": "int"}
+	{"name": "targetType", "type": "int"},
+	{"name": "skillPreOpType", "type": "int"},
+	{"name": "skillPreOpData1", "type": "int"},
+	{"name": "skillPreOpData2", "type": "int"}
   ],
   "files": [
     "skill/skill_list_cmn",
