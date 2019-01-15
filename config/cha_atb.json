@@ -1,0 +1,31 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+	{"name": "maxHP", "type": "int"},
+	{"name": "maxMP", "type": "int"},
+	{"name": "phyAtk", "type": "int"},
+	{"name": "magAtk", "type": "int"},
+	{"name": "phyDef", "type": "int"},
+	{"name": "magDef", "type": "int"},
+	{"name": "phyPen", "type": "int"},
+	{"name": "magPen", "type": "int"},
+	{"name": "phyPenPct", "type": "int"},
+	{"name": "magPenPct", "type": "int"},
+	{"name": "regenHP", "type": "int"},
+	{"name": "regenMP", "type": "int"},
+	{"name": "phyVampPct", "type": "int"},
+	{"name": "magVampPct", "type": "int"},
+	{"name": "critPct", "type": "int"},
+	{"name": "critDecPct", "type": "int"},
+	{"name": "critEffect", "type": "int"},
+	{"name": "critDecEffect", "type": "int"},
+	{"name": "moveSpeed", "type": "int"},
+	{"name": "cdReducePct", "type": "int"},
+	{"name": "atkSpeedPct", "type": "int"},
+	{"name": "hrTimeDefPct", "type": "int"}
+  ],
+  "files": [
+    "cha/cha_atb_cmn"
+  ]
+}

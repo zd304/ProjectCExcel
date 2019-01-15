@@ -3,7 +3,8 @@
     {"name": "id", "type": "int"},
     {"name": "name", "type": "string"},
 	{"name": "chaListID", "type": "int"},
-	{"name": "skillIDs", "type": "int[]"}
+	{"name": "skillIDs", "type": "int[]"},
+	{"name": "chaAtbID", "type": "int"}
   ],
   "files": [
     "cha/cha_class"

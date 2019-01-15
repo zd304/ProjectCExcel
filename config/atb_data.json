@@ -1,0 +1,16 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+	{"name": "inflAtbs", "type": "int[]"},
+	{"name": "maxAtb", "type": "int"},
+	{"name": "defValue", "type": "int"},
+	{"name": "minValue", "type": "int"},
+	{"name": "maxValue", "type": "int"},
+	{"name": "isPct", "type": "int"},
+	{"name": "syncClient", "type": "int"}
+  ],
+  "files": [
+    "cha/atb_data"
+  ]
+}
