@@ -9,7 +9,11 @@
 	{"name": "targetType", "type": "int"},
 	{"name": "skillPreOpType", "type": "int"},
 	{"name": "skillPreOpData1", "type": "int"},
-	{"name": "skillPreOpData2", "type": "int"}
+	{"name": "skillPreOpData2", "type": "int"},
+	{"name": "phyDamage", "type": "int"},
+	{"name": "magDamage", "type": "int"},
+	{"name": "phyPct", "type": "int"},
+	{"name": "magPct", "type": "int"}
   ],
   "files": [
     "skill/skill_list_cmn",

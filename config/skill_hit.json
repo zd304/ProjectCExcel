@@ -2,13 +2,15 @@
   "field": [
     {"name": "id", "type": "int"},
     {"name": "name", "type": "string"},
+	{"name": "skillID", "type": "int"},
 	{"name": "hitType", "type": "int"},
 	{"name": "hitData1", "type": "int"},
 	{"name": "hitData2", "type": "int"},
 	{"name": "hitData3", "type": "int"},
 	{"name": "targetType", "type": "int"},
 	{"name": "maxHitCount", "type": "int"},
-	{"name": "targetMaxHitCnt", "type": "int"}
+	{"name": "targetMaxHitCnt", "type": "int"},
+	{"name": "hurtType", "type": "int"}
   ],
   "files": [
     "skill/skill_hit_cmn",
