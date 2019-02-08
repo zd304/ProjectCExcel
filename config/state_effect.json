@@ -1,0 +1,12 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+	{"name": "type", "type": "int"},
+	{"name": "dataIntArray", "type": "int[]"},
+	{"name": "dataString", "type": "string"}
+  ],
+  "files": [
+    "state/state_effect"
+  ]
+}

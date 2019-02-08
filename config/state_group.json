@@ -1,0 +1,17 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+	{"name": "stateEffectIDs", "type": "int[]"},
+	{"name": "duration", "type": "int"},
+	{"name": "type", "type": "int"},
+	{"name": "icon", "type": "string"},
+	{"name": "mutexID", "type": "int"},
+	{"name": "mutexScope", "type": "int"},
+	{"name": "mutexPriority", "type": "int"},
+	{"name": "mutexNextID", "type": "int"}
+  ],
+  "files": [
+    "state/state_group"
+  ]
+}
