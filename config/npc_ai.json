@@ -1,0 +1,19 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "patrolType", "type": "int"},
+	{"name": "patrolRadius", "type": "float"},
+	{"name": "patrolPathLine", "type": "string"},
+	{"name": "patrolMinInterval", "type": "float"},
+	{"name": "patrolMaxInterval", "type": "float"},
+	{"name": "searchTargetType", "type": "int"},
+	{"name": "searchTargetCondition", "type": "int"},
+	{"name": "skillTimeout", "type": "float"},
+	{"name": "skillMinInterval", "type": "float"},
+	{"name": "skillMaxInterval", "type": "float"},
+	{"name": "disoverlap", "type": "int"}
+  ],
+  "files": [
+    "cha/npc_ai"
+  ]
+}

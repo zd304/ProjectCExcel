@@ -5,7 +5,9 @@
 	{"name": "temp", "type": "int"},
 	{"name": "min", "type": "float[]"},
 	{"name": "max", "type": "float[]"},
-	{"name": "viewDist", "type": "float"}
+	{"name": "viewDist", "type": "float"},
+	{"name": "refreshPath", "type": "string"},
+	{"name": "markPath", "type": "string"}
   ],
   "files": [
     "scn/scn_list"
