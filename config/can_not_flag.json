@@ -1,0 +1,13 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+	{"name": "canNotMove", "type": "int"},
+	{"name": "canNotControl", "type": "int"},
+	{"name": "canNotSkill", "type": "int"},
+	{"name": "canNotSelected", "type": "int"}
+  ],
+  "files": [
+    "state/can_not_flag"
+  ]
+}
