@@ -8,10 +8,12 @@
 	{"name": "patrolMaxInterval", "type": "float"},
 	{"name": "searchTargetType", "type": "int"},
 	{"name": "searchTargetCondition", "type": "int"},
+	{"name": "searchTargetDist", "type": "float"},
 	{"name": "skillTimeout", "type": "float"},
 	{"name": "skillMinInterval", "type": "float"},
 	{"name": "skillMaxInterval", "type": "float"},
-	{"name": "disoverlap", "type": "int"}
+	{"name": "disoverlap", "type": "int"},
+	{"name": "skillAI", "type": "int[]"}
   ],
   "files": [
     "cha/npc_ai"

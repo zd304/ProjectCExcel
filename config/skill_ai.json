@@ -1,0 +1,14 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "conditionType", "type": "int"},
+	{"name": "conditionDatas", "type": "int[]"},
+	{"name": "distance", "type": "float"},
+	{"name": "selectType", "type": "int"},
+	{"name": "selectSkillIDs", "type": "int[]"},
+	{"name": "overFrame", "type": "int"}
+  ],
+  "files": [
+    "cha/skill_ai"
+  ]
+}
