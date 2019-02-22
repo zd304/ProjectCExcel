@@ -13,7 +13,8 @@
 	{"name": "skillMinInterval", "type": "float"},
 	{"name": "skillMaxInterval", "type": "float"},
 	{"name": "disoverlap", "type": "int"},
-	{"name": "skillAI", "type": "int[]"}
+	{"name": "skillAI", "type": "int[]"},
+	{"name": "offFightDist", "type": "float"}
   ],
   "files": [
     "cha/npc_ai"
