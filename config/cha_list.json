@@ -5,7 +5,9 @@
 	{"name": "path", "type": "string"},
 	{"name": "scale", "type": "float[]"},
 	{"name": "radius", "type": "float"},
-	{"name": "campID", "type": "int"}
+	{"name": "campID", "type": "int"},
+	{"name": "deadType", "type": "int"},
+	{"name": "deadData", "type": "int[]"}
   ],
   "files": [
     "cha/cha_list"
