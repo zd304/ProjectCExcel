@@ -6,8 +6,7 @@
 	{"name": "scale", "type": "float[]"},
 	{"name": "radius", "type": "float"},
 	{"name": "campID", "type": "int"},
-	{"name": "deadType", "type": "int"},
-	{"name": "deadData", "type": "int[]"}
+	{"name": "deadAnimTime", "type": "float"}
   ],
   "files": [
     "cha/cha_list"
