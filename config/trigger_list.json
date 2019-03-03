@@ -1,0 +1,22 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+    {"name": "name", "type": "string"},
+	{"name": "bindType", "type": "int"},
+	{"name": "bindParams", "type": "int[]"},
+	{"name": "triggerType", "type": "int"},
+	{"name": "triggerParams", "type": "int[]"},
+	{"name": "condition", "type": "int"},
+	{"name": "condParams", "type": "int[]"},
+	{"name": "eventType", "type": "int"},
+	{"name": "eventParams", "type": "int[]"},
+	{"name": "trait", "type": "int"}
+  ],
+  "files": [
+    "trigger/trigger_list_cmn",
+	"trigger/trigger_list_scn",
+	"trigger/trigger_list_player",
+	"trigger/trigger_list_npc",
+	"trigger/trigger_list_monster"
+  ]
+}
