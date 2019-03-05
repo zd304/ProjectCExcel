@@ -1,0 +1,13 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+	{"name": "eventType", "type": "int"},
+	{"name": "eventParams", "type": "int[]"}
+  ],
+  "files": [
+    "trigger/trigger_event_cmn",
+	"trigger/trigger_event_scn",
+	"trigger/trigger_event_player",
+	"trigger/trigger_event_npc"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "field": [
+    {"name": "id", "type": "int"},
+	{"name": "condition", "type": "int"},
+	{"name": "condParams", "type": "int[]"}
+  ],
+  "files": [
+    "trigger/trigger_condition_cmn",
+	"trigger/trigger_condition_scn",
+	"trigger/trigger_condition_player",
+	"trigger/trigger_condition_npc"
+  ]
+}
